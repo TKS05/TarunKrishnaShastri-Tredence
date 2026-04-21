@@ -5,9 +5,7 @@ I am Tarun Krishna Shastri, a pre-final year Computer Engineering student at Tha
 
 ---
 
-This repository contains the solution for the Tredence AI Engineering Intern Case Study: **The Self-Pruning Neural Network**.
 
-The objective of this project is to implement a mechanism that allows a neural network to dynamically prune its own weights during training. Instead of a traditional post-training pruning approach, the network relies on learnable "gates" to eliminate less important parameters. 
 
 ## 1. Why an L1 Penalty on Sigmoid Gates Encourages Sparsity?
 
